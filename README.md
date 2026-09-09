@@ -27,7 +27,7 @@ OGMO Editor - A free level editor for 2D games. It can be used to create maps an
 https://ogmo-editor-3.github.io/
 
 Bosca Ceoil: The Blue Album - A simple music-making tool for creating melodies and basic game music. It is easier to get started with than many full music programs.
-https://boscaceoil.itch.io/blue
+https://yurisizov.itch.io/boscaceoil-blue
 
 Bfxr - A simple tool for creating game sound effects, especially retro-style sounds. It lets you generate sounds and adjust things like pitch and filters.
 https://www.bfxr.net/
